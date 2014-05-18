@@ -17,3 +17,5 @@ Although it was derived from Maestro Engine v1, it consists some significan arch
   2. All external things are now under 'external' folder. There are: ckeditor(instead of edit_area), tagit for tags, pdfjs for PDF to html book conversion, plupload for huge file upload
 * Templates now have extension .tpl.php instead of .html
 * It is now easier to update database structure in ZF2 way. You don't need to do it manually in your database, you just write your delta in 'db/update.php' and launch this file.
+
+For detailed description of V1 engine please refer 'engine' repository.
