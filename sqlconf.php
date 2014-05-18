@@ -1,0 +1,10 @@
+<?php 
+		define('HOST_SERVER','localhost');
+		define('HOST_NAME','root');
+		define('HOST_PASS','');
+		define('HOST_DB','bookster2'); 
+		define('FILE_PATH','www/');
+		set_include_path(FILE_PATH);
+		define('BASE_PATH','http://localhost/bookster/');
+		define('PUB',BASE_PATH.FILE_PATH);
+?>

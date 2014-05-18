@@ -1,0 +1,7 @@
+2014-01-26 20:44:15;seminars/question/15;::1;1
+2014-01-26 20:44:24;seminars/question/15;::1;1
+2014-01-26 20:44:25;seminars/question/15;::1;1
+2014-01-26 20:44:25;seminars/question/15;::1;1
+2014-01-26 20:44:25;seminars/question/15;::1;1
+2014-01-26 20:44:25;seminars/question/15;::1;1
+2014-01-26 22:14:24;summaries/view/510;::1;1
